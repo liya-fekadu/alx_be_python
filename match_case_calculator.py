@@ -37,3 +37,47 @@ print(f"The result is: {result}" if isinstance(result, (int, float)) else result
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
